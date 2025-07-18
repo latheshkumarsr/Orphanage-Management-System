@@ -3,8 +3,6 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
-A comprehensive web application for managing orphanages, built with React.js. This system helps administrators manage children's records, staff, donations, and facility operations efficiently.
-
 ## Features
 
 - **Child Management**: Maintain detailed profiles for each child, including personal information, health records, and educational progress.
