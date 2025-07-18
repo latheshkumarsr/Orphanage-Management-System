@@ -35,42 +35,31 @@ A comprehensive web application for managing orphanages, built with React.js. Th
    git clone https://github.com/latheshkumarsr/Orphanage-Management-System.git
 
 2. Navigate to the project directory:
-
-bash
-
-Run
-Copy code
+```bash
 cd Orphanage-Management-System
+```
 3. Install dependencies:
-
-bash
-
-Run
-Copy code
+```bash
 npm install
 # or
 yarn install
+```
 4. Start the development server:
 
-bash
-
-Run
-Copy code
+```bash
 npm start
 # or
 yarn start
-Configuration
+```
+## Configuration
+
 5. Create a .env file in the root directory with the following variables:
-
-
-Run
-Copy code
+```bash
 REACT_APP_API_BASE_URL=your_api_url_here
 REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here
-Project Structure
-
-Run
-Copy code
+```
+##Project Structure
+```bash
 orphanage-management-system/
 ├── public/               # Static files
 ├── src/
@@ -87,40 +76,27 @@ orphanage-management-system/
 ├── .gitignore
 ├── package.json
 └── README.md
-Contributing
+```
+## Contributing
 We welcome contributions! Please follow these steps:
 
-Fork the project
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some amazing feature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+1. Fork the project
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch 
+5. Open a Pull Request
 
-Contact
-For inquiries, please contact:
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
-[Your Name] - your.email@example.com
+## Contact
+For inquiries, please contact: 
 
-Project Link: https://github.com/yourusername/Orphanage-Management-System
+[Lathesh kumar] - latheshkumar06@gmail.com
 
-Screenshots
-Include screenshots of your application here once developed.
+Project Link: https://github.com/latheshkumarsr/Orphanage-Management-System
 
-
-Run
-Copy code
-
-### **Next Steps:**
-- Review the features and technologies listed to ensure they align with your document.
-- Add any specific functionalities or technologies that are unique to your project.
-- Include any additional sections that may be relevant, such as API documentation or deployment instructions.
-
-If you have specific features or technologies from the document that you would like to include, please provide that information, and I can help you refine the README further!
-
-Bookmark message
-Copy message
-Export
+## Screenshots
+1. 
 
 
