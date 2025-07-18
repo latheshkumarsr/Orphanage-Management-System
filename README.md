@@ -7,18 +7,20 @@ A comprehensive web application for managing orphanages, built with React.js. Th
 
 ## Features
 
-- **Child Management**: Track children's profiles, medical records, and education progress
-- **Staff Dashboard**: Manage employee records, schedules, and responsibilities
-- **Donation Tracking**: Record and acknowledge donations with receipts
-- **Reporting**: Generate reports on facility operations and needs
-- **User Management**: Role-based access control for different types of users
+- **Child Management**: Maintain detailed profiles for each child, including personal information, health records, and educational progress.
+- **Staff Management**: Manage staff profiles, roles, schedules, and performance evaluations.
+- **Donation Management**: Track donations, generate receipts, and manage donor information.
+- **Event Management**: Organize and manage events for children and the community.
+- **Reporting and Analytics**: Generate reports on various metrics such as child welfare, staff performance, and financials.
+- **User  Authentication**: Secure login for different user roles (admin, staff, donor).
 
 ## Technologies Used
 
-- Frontend: React.js, React Router, Axios
-- State Management: Context API or Redux (choose one)
-- Styling: CSS Modules/Styled Components
-- Testing: Jest + React Testing Library
+- **Frontend**: React.js, React Router, Axios for API calls
+- **State Management**: Redux for global state management
+- **Styling**: Tailwind CSS for responsive design
+- **Testing**: Jest and React Testing Library for unit and integration tests
+- **Backend**: Node.js with Express (if applicable)
 
 ## Prerequisites
 
@@ -29,5 +31,5 @@ A comprehensive web application for managing orphanages, built with React.js. Th
 ## Installation
 
 1. Clone the repository:
-```bash
-https://github.com/latheshkumarsr/Orphanage-Management-System
+   ```bash
+   git clone https://github.com/latheshkumarsr/Orphanage-Management-System.git
