@@ -30,4 +30,4 @@ A comprehensive web application for managing orphanages, built with React.js. Th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/latheshkumarsr/Orphanage-Management-System.git
+https://github.com/latheshkumarsr/Orphanage-Management-System
