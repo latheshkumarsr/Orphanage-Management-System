@@ -26,7 +26,7 @@ A comprehensive web application for managing orphanages, built with React.js. Th
 
 - Node.js (v14 or higher)
 - npm (v6 or higher) or Yarn
-- Git
+- PostgreSQL
 
 ## Installation
 
